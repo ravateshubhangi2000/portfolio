@@ -1,0 +1,12 @@
+
+/* src/styles.css */
+
+body {
+    background-image: url('./assets/image1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+  
+  /* Add additional global styles as needed */
+  
